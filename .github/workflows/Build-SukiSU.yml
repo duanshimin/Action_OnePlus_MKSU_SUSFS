@@ -16,6 +16,7 @@ on:
           - sm8650
           - sm8750
           - sm8850
+          - k8550
       FEIL:
         type: choice
         description: "配置文件"
@@ -59,6 +60,7 @@ on:
           - pineapple
           - sun
           - canoe
+          - k8550
       ANDROID_VERSION:
         type: choice
         description: "内核安卓版本"
